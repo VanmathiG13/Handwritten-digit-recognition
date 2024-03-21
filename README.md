@@ -1,4 +1,5 @@
 Handwritten Digit Recognition
+
 Introduction
 This project is aimed at developing a handwritten digit recognition system using machine learning techniques. The goal is to accurately classify handwritten digits (0-9) based on images of handwritten digits.
 
